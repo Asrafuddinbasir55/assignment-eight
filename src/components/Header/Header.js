@@ -5,7 +5,7 @@ import './Header.css'
 const header = () => {
     return (
         <div>
-            <h1>React Project</h1>
+            <h1>React Gun Project</h1>
         </div>
     );
 };
