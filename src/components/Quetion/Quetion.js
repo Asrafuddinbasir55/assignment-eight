@@ -5,7 +5,7 @@ const Quetion = () => {
     return (
         <div className='Queition-aria'>
             <h4 className='Queition'>How React Works..?</h4>
-            <p>ReactJS offers graceful solutions to some of front-end programming’s most persistent issues,  you to build dynamic and interactive web apps with ease. You’ll develop a strong of React’s most essential concepts: JSX, class and function components, props, state, lifecycle methods ReactJS is simply a JavaScript library for building user interfaces. It was created by Facebook and now has a large community, including FB, that actively maintains it.</p>
+            <p>ReactJS offers graceful solutions some of front-end programming’s most persistent issues,  you to build dynamic and interactive web apps with ease. You’ll develop a strong of React’s most essential concepts: JSX, class and function components, props, state, lifecycle methods ReactJS is simply a JavaScript library for building user interfaces. It was created by Facebook and now has a large community, including FB, that actively maintains it.</p>
         
 
 
