@@ -10,7 +10,7 @@ const Quetion = () => {
 
 
             <h4 className='Queition'>How useState..?</h4>
-            <p> React Hooks must be called in the same order in component render, in simpler words, any hook should be at the very top and inside the function component without any check, loops, etc For example, the following code is wrong, and won't as we expect The useState function takes as argument a value for the initial state. In this case, the count starts out with 0. In, the hook returns an array of two values: count and setCount. It's up to you to name the two values, they are destructured from the returned array where renaming is allowed.</p>
+            <p> React Hooks must be called in the same order in component render, in simpler words, any hook should at the very top and inside the function component without any check, loops, etc For example, the following code is wrong, and won't as we expect The useState function takes as argument a value for the initial state. In this case, the count starts out with 0. In, the hook returns an array of two values: count and setCount. It's up to you to name the two values, they are destructured from the returned array where renaming is allowed.</p>
         </div>
     );
 };
